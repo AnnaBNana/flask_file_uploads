@@ -18,4 +18,6 @@ A couple more points:
 
 * Use the secure filename when you want to store in a database, then retrieve your item from file storage.
 * It's fine to store just a few items on your server, or store things temporarily, but try to avoid doing this.  In the future, like during project week, you may want to learn how to store items on remote servers like Amazon's awesome S3 service.
+
+Note: it doesn't show here because my directory is empty, but you should have a directory named static, with an uploads directory inside.
  
